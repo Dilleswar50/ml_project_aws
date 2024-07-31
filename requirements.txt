@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 pandas
 numpy
 scikit-learn
@@ -6,12 +5,3 @@ dill
 Flask
 
 # -e .            # we commment it for now, becoz we don't want to build our package everytime, so we will un-comment at the last and run at last to build our package 
-=======
-pandas
-numpy
-scikit-learn
-dill
-Flask
-
-# -e .            # we commment it for now, becoz we don't want to build our package everytime, so we will un-comment at the last and run at last to build our package 
->>>>>>> b068b658f57a5275770ea6900b59a2ca9f07a5aa
